@@ -1,0 +1,5 @@
+{
+  "name": "EVE Online Wallet Aggregator",
+  "description": "A sophisticated daily wallet summary tool for EVE Online players to track income, expenses, and net profit across characters and dates.",
+  "requestFramePermissions": []
+}
